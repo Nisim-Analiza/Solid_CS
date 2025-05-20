@@ -8,5 +8,9 @@ namespace Solid_Principle
 {
     internal class TelemetrySender
     {
+        public void SendTelementry()
+        {
+            Console.WriteLine("Telemetry sent to Earth...");
+        }
     }
 }

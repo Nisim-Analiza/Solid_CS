@@ -1,0 +1,7 @@
+C:\Users\nisim\Dev\Solid_Principle\bin\Debug\Solid_Principle.exe.config
+C:\Users\nisim\Dev\Solid_Principle\bin\Debug\Solid_Principle.exe
+C:\Users\nisim\Dev\Solid_Principle\bin\Debug\Solid_Principle.pdb
+C:\Users\nisim\Dev\Solid_Principle\obj\Debug\Solid_Principle.csproj.AssemblyReference.cache
+C:\Users\nisim\Dev\Solid_Principle\obj\Debug\Solid_Principle.csproj.CoreCompileInputs.cache
+C:\Users\nisim\Dev\Solid_Principle\obj\Debug\Solid_Principle.exe
+C:\Users\nisim\Dev\Solid_Principle\obj\Debug\Solid_Principle.pdb
