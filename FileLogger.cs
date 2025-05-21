@@ -8,9 +8,9 @@ namespace Solid_Principle
 {
     internal class FileLogger :ILogger
     {
-        public void send(string log ,string msg)
+        public void send(string pathLog ,string msg)
         {
-            Console.WriteLine("log.txt" , "Maesseag");
+            Console.WriteLine("pathLog.txt", "Maesseag");
         }
 
     }

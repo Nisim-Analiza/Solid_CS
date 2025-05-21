@@ -8,6 +8,8 @@ namespace Solid_Principle
 {
     internal class EmergencyHandler
     {
+        public TelemetrySender sender = new TelemetrySender();
+
 
     }
 }
