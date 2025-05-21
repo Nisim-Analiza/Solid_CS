@@ -8,5 +8,6 @@ namespace Solid_Principle
 {
     internal class EmergencyHandler
     {
+
     }
 }

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Solid_Principle
 {
-    internal class FileLogger
+    internal class FileLogger :ILogger
     {
+        public void send(string log ,string msg)
+        {
+            Console.WriteLine("log.txt" , "Maesseag");
+        }
+
     }
 }

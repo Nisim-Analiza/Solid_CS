@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Solid_Principle
 {
-    internal class TelemetrySender
+    internal class TelemetrySender : ISmsAlert ,IEmailAlert
     {
+        public void SendSms(int pn ,string msg)
+        {
+            Console.WriteLine();
+        }
+        public void SendEmail(string ea ,string msg)
+        {
+            Console.WriteLine();
+        }
     }
 }

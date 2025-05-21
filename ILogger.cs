@@ -8,5 +8,6 @@ namespace Solid_Principle
 {
     internal interface ILogger
     {
+        void send(string file, string message);
     }
 }
